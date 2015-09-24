@@ -1,0 +1,28 @@
+# Site settings
+title: odcinek.github.io
+email: odcinek@gmail.com
+description: ""
+
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "" # the base hostname & protocol for your site
+
+keep_files: [index.html]
+gems:
+  - jekyll-archives
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+highlighter: pygments
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layout: archive  
+  permalinks:
+    tag: '/tag/:name/'
+    category: '/:name/'
+  layouts:
+    tag: tags
+    category: category
