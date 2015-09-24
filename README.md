@@ -1,4 +1,4 @@
-### odcinek.github.com jekyll source
+### jekyll source of odcinek.github.com
 
 As awesome as `github-pages` are, they do not support custom jekyll plugins. Here is a workaround - generate everything locally, and use git subrepo (_yuck.._) to push static bits to [odcinek/odcinek.github.com](https://github.com/odcinek/odcinek.github.com). Hey, it works.
 
