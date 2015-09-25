@@ -10,6 +10,7 @@ keep_files: [README.md, .git, .gitignore]
 exclude: [README.md, Gemfile, Gemfile.lock, odcinek.github.com, sbin]
 gems:
   - jekyll-archives
+  - jekyll-youtube
 
 # Build settings
 markdown: kramdown
