@@ -1,6 +1,6 @@
-### jekyll source of odcinek.github.com
+### jekyll source of [odcinek.github.io](https://odcinek.github.io/)
 
-As awesome as `github-pages` are, they do not support custom jekyll plugins. Here is a workaround - generate everything locally, and use git subrepo (_yuck.._) to push static bits to [odcinek/odcinek.github.com](https://github.com/odcinek/odcinek.github.com). Hey, it works.
+As awesome as `github-pages` is, it do not support custom [jekyll](https://jekyllrb.com/) plugins (because of mostly good reasons). Here is a workaround - generate everything locally, and use git subrepo (_yuck.._) to push static bits to [odcinek/odcinek.github.com](https://github.com/odcinek/odcinek.github.com). Hey, it works.
 
 #### Setup
 ```bash
