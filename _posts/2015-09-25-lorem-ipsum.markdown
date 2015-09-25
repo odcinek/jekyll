@@ -2,7 +2,7 @@
 layout: post
 title:  "Lorem ipsum"
 date:   2015-09-24 19:30:50
-categories: writeups
+categories: projects
 tags: [lorem, ipsum]
 comments: yes
 ---
